@@ -1,5 +1,6 @@
 package project1;
 
+//this is a class for round island
 public class RIsl {
     
     private final double rad = Math.random() * 101;

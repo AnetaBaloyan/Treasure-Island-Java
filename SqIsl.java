@@ -1,5 +1,6 @@
 package project1;
 
+//this is a class for a square island
 public class SqIsl {
     
     double x = Math.random() * (101+100) - 100;
